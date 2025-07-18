@@ -73,7 +73,7 @@ Toggle between light and dark themes for better accessibility.
 Securely log out and return to the login screen.
 
 ## Screenshots
-Add screenshots to illustrate each feature. Example:
+
 
 ![Login Screen](screenshots/login.png)
 ![Buy Token](screenshots/buy_token.png)
