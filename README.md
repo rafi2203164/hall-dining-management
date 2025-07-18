@@ -82,5 +82,3 @@ Securely log out and return to the login screen.
 ![Profile](screenshots/profile.png)
 
 ---
-For more details, see the [user manual](usermanual.md).
-https://github.com/rafi2203164/hall-dining-management.git
